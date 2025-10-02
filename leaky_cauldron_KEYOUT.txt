@@ -1,16 +1,16 @@
 Wizard: Harry
 Drink: Felix Felicis Espresso Shot (S)
-Toppings: | 2: Chocolate Shavings | 
+Toppings: | Chocolate Shavings | 
 Price: 20c
 
 Wizard: Ron
 Drink: Butterbeer Latte (L)
-Toppings: | 0: Whipped Cream | 4: Caramel Drizzle | 6: Crushed Candy Cane | 
+Toppings: | Whipped Cream | Caramel Drizzle | Crushed Candy Cane | 
 Price: 98c
 
 Wizard: Hermione
 Drink: Pumpkin Juice Smoothie (M)
-Toppings: | 1: Marshmallows | 5: Nutmeg Sprinkle | 
+Toppings: | Marshmallows | Nutmeg Sprinkle | 
 Price: 58c
 
 Wizard: Draco
